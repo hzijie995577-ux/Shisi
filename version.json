@@ -1,0 +1,5 @@
+{
+  "version": "0.1.9",
+  "downloadUrl": "https://hzijie995577-ux.github.io/Shisi/miaoshou_ozon_zip_installer_v0.1.9.zip",
+  "notes": "修复检查更新长时间无响应，增加 8 秒超时和明确错误提示。"
+}
