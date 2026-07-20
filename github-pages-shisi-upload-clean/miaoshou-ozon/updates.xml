@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="aefohiipkflenmleolkcejnmgafopjbp">
+    <updatecheck codebase="https://hzijie995577-ux.github.io/Shisi/miaoshou-ozon/miaoshou_ozon_seerfar_extension.crx" version="0.1.5" prodversionmin="120.0.0.0" />
+  </app>
+</gupdate>
